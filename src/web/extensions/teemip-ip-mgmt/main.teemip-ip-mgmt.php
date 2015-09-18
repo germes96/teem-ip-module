@@ -28,7 +28,7 @@
 define('MAX_NB_OF_IPS_TO_DISPLAY', 4096);
 
 define('MAX_IPV4_VALUE', 4294967295);
-define('IPV4_BLOCK_MIN_SIZE', 8);
+define('IPV4_BLOCK_MIN_SIZE', 4);
 define('IPV4_SUBNET_MAX_SIZE', 65536);
 
 define('ALL_ORGS', 65536);
